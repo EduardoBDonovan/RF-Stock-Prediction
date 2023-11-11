@@ -29,4 +29,4 @@ The purpose of this project is to demonstrate a basic stock market prediction mo
     - Modify parameters such as the number of estimators in the Random Forest Classifier or the rolling averages used for predictions.
 
 ## Disclaimer
-This project is for educational purposes only and does not guarantee accurate stock market predictions. Always perform due diligence and consider professional financial advice before making any investment decisions.
+This project is for educational purposes only and does not guarantee accurate stock market predictions. Always perform due diligence and consider professional financial advice before making any investment decisions. This project was adapted from Dataquestio / project-walkthroughs / sp500.
